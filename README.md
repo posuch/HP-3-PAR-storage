@@ -1,4 +1,4 @@
-# HP-3-PAR-storage
+# HP-3-PAR device monitoring
 
 monitoring of HP3 par storage is realized via snmp traps ( zabbix collect receicves traps from the device ) \
 \
